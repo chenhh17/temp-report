@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Microsoft Office lock / auto-recovery files
+~$*
+*.tmp
+*.wbk
+
+# Excel / Word autosave and backup
+*.xlk
+*.asd
+
+# Editor and IDE
+.idea/
+*.swp
+*.swo
+*~
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Cursor local state (keep project rules if added later)
+.cursor/
+
+# Python (if you add automation scripts later)
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Logs and scratch
+*.log
+.cache/
+
+# Optional: uncomment if you prefer not to track duplicate sample archives
+# **/Cash flow and Supporting Document Sample.zip
